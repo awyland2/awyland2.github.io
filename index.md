@@ -1,6 +1,6 @@
 ## Welcome to my website!
 
-[test link mmbi](mmbi.pdf.zip)
+[test link mmbi](mmbi.pdf.zip/mmbi.pdf.html)
 
 You can use the [editor on GitHub](https://github.com/awyland2/awyland2.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
