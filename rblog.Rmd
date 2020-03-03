@@ -1,0 +1,10 @@
+layout: page
+title: "rblog"
+permalink: /rblog/
+---
+
+hi this is my r blog
+
+```{r}
+
+```
