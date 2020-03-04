@@ -5,7 +5,6 @@ description: Allie's personal website
 logo: Allison_Wyland.jpg
 
 navbar:
-  left:
   - text: "Home"
    href: index.md
   - text: "rblog"
