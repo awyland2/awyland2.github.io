@@ -4,10 +4,5 @@ title: Allie Wyland
 description: Allie's personal website
 logo: Allison_Wyland.jpg
 
-navbar:
-  - text: "Home"
-   href: index.md
-  - text: "rblog"
-   href: rmd-test-page.Rmd
 
 
