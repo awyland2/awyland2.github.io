@@ -8,7 +8,7 @@
 
 [test 2 for r blog](https://awyland2.github.io/rblog/)
 
-[new rmd test](rmd-test-page.Rmd)
+[new rmd test](rmd-test-page.html)
 
 
 You can use the [editor on GitHub](https://github.com/awyland2/awyland2.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
