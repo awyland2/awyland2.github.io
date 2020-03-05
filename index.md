@@ -1,6 +1,14 @@
-## Welcome to my website!
+# Welcome to my website!
 
-[test link mmbi](mmbi.pdf.zip/mmbi.pdf.html)
+## Bio
+Hi! I am an undergraduate student at the University of Illinois. I am majoring in Psychology with a Clininical/Community concentration and minoring in Gender and Women's Studies and Applied Statistics. 
+
+## Links
+[Download my resume](Resume_for_GitHub.pdf)
+
+[Connect with me on LinkedIn!](https://www.linkedin.com/in/allison-wyland-6381921a4?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B3v9QAjO7RG%2BFWgGx%2BF6U%2Bg%3D%3D)
+
+[View my Counseling Center Paraprofessional eportfolio](https://illinois.digication.com/copy-of-ccp-eportfolio/home)
 
 [blog](blog.md)
 
@@ -8,7 +16,10 @@
 
 [test 2 for r blog](https://awyland2.github.io/rblog/)
 
-[new rmd test](rmd-test-page.Rmd)
+[new rmd test](rmd-test-page.html)
+
+
+
 
 
 You can use the [editor on GitHub](https://github.com/awyland2/awyland2.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
