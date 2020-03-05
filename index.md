@@ -15,11 +15,6 @@ Hi! I am an undergraduate student at the University of Illinois. I am majoring i
 
 
 
-[blog](blog.md)
-
-
-
-
 
 You can use the [editor on GitHub](https://github.com/awyland2/awyland2.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
