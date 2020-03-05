@@ -10,13 +10,18 @@ Hi! I am an undergraduate student at the University of Illinois. I am majoring i
 
 [View my Counseling Center Paraprofessional eportfolio](https://illinois.digication.com/copy-of-ccp-eportfolio/home)
 
+[my blog page](rmd-test-page.html)
+
+
+
+
 [blog](blog.md)
 
 [test r blog](rblog.Rmd)
 
 [test 2 for r blog](https://awyland2.github.io/rblog/)
 
-[new rmd test](rmd-test-page.html)
+
 
 
 
