@@ -17,12 +17,6 @@ Hi! I am an undergraduate student at the University of Illinois. I am majoring i
 
 [blog](blog.md)
 
-[test r blog](rblog.Rmd)
-
-[test 2 for r blog](https://awyland2.github.io/rblog/)
-
-
-
 
 
 
