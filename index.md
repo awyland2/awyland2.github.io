@@ -3,7 +3,7 @@
 ## Bio
 Hi! I am an undergraduate student at the University of Illinois. I am majoring in Psychology with a Clininical/Community concentration and minoring in Gender and Women's Studies and Applied Statistics.
 
-[Download my resume](Resume for GitHub.pdf)
+[Download my resume](Resume_for_GitHub.pdf)
 
 [test link mmbi](mmbi.pdf.zip/mmbi.pdf.html)
 
