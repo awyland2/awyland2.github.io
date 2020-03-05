@@ -5,8 +5,6 @@ Hi! I am an undergraduate student at the University of Illinois. I am majoring i
 
 [Download my resume](Resume_for_GitHub.pdf)
 
-[test link mmbi](mmbi.pdf.zip/mmbi.pdf.html)
-
 [blog](blog.md)
 
 [test r blog](rblog.Rmd)
