@@ -1,7 +1,7 @@
 # Welcome to my website!
 
 ## Bio
-Hi! I am an undergraduate student at the University of Illinois. I am majoring in Psychology with a Clininical/Community concentration and minoring in Gender and Women's Studies and Applied Statistics. 
+Hi! I am an undergraduate student at the University of Illinois. I am majoring in Psychology with a Clininical/Community concentration and minoring in Gender and Women's Studies and Applied Statistics. My future goals are to be a psychotherapist and to get further involved in community work with LGBTQ+ people and other minorities.
 
 ## Links
 [View my resume](Resume_for_GitHub.pdf)
